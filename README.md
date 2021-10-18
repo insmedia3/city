@@ -11,3 +11,6 @@
 - https://lifecord.github.io/city/naverpost_yongin_tour.xml
 - https://lifecord.github.io/city/naverpost_yongin_life.xml
 - https://lifecord.github.io/city/naverpost_yongin_cook.xml
+
+## 네이버 블로그
+- https://rss.blog.naver.com/govlrodtnr.xml
