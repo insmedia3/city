@@ -16,3 +16,39 @@ url = "https://linktr.ee/yicity"
 entrySelector = "div.sc-dQppl.jjdMus"
 titleSelector = "p[class='sc-hBEYos Button__StyledText-sc-uh5tyw-0 cqgIKE rsIfq']"
 linkSelector = "a[class='sc-hHftDr StyledButton-sc-686c3k-0 egoGPQ dLjCyh']"
+
+[naverpost_yongin_news]
+title = "용인시청 ─ 용인소식"
+url = "https://m.post.naver.com/my/series/detail.naver?seriesNo=265767&memberNo=5374901"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_yongin_tour]
+title = "용인시청 ─ 용인관광"
+url = "https://m.post.naver.com/my/series/detail.naver?seriesNo=265770&memberNo=5374901"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_yongin_life]
+title = "용인시청 ─ 용인생활"
+url = "https://m.post.naver.com/my/series/detail.naver?seriesNo=265785&memberNo=5374901"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_yongin_cook]
+title = "용인시청 ─ 용인요리"
+url = "https://m.post.naver.com/my/series/detail.naver?seriesNo=470006&memberNo=5374901"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
