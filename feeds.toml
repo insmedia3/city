@@ -9,3 +9,11 @@ DateSelector = "span.txt_time a"
 DateFormat = "MM월 dd일 a hh:mm"
 imageSelector = "a.link_thumb div.wrap_thumb"
 waitUntil = "networkidle"
+
+[yongin_linktree]
+title = "용인시 ─ 링크트리"
+url = "https://linktr.ee/yicity"
+entrySelector = "div.sc-dQppl.jjdMus"
+titleSelector = "div.sc-dQppl.StyledContainer__StyledLinkContainer-sc-1kae6sc-0.jYspIk.dEOCVq a p"
+linkSelector = "div.sc-dQppl.StyledContainer__StyledLinkContainer-sc-1kae6sc-0.jYspIk.dEOCVq a"
+waitUntil = "networkidle"
