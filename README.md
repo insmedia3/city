@@ -7,6 +7,7 @@
 - https://lifecord.github.io/city/yongin_linktree.xml
 
 ## 네이버 포스트
+- https://lifecord.github.io/city/naverpost_yongin.xml
 - https://lifecord.github.io/city/naverpost_yongin_news.xml
 - https://lifecord.github.io/city/naverpost_yongin_tour.xml
 - https://lifecord.github.io/city/naverpost_yongin_life.xml
