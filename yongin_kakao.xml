@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_SxkxoYxl</id>
     <title>용인시 ─ 카카오톡 채널</title>
-    <updated>2022-01-15T22:08:11.714Z</updated>
+    <updated>2022-01-15T23:08:47.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[✅ 코로나19 확진자 (용인-13381~13384, 용인외-1863~1864) 발생 안내https://blog.naver.com/govlrodtnr/222622910799…더보기]]></title>
+        <id>https://pf.kakao.com/_SxkxoYxl/92359159</id>
+        <link href="https://pf.kakao.com/_SxkxoYxl/92359159"/>
+        <updated>2022-01-15T23:08:17.113Z</updated>
+        <content type="html"><![CDATA[<span style="height: 44px; display: inline-block; overflow: hidden;"><span><span>✅ 코로나19 확진자 (용인-13381~13384, 용인외-1863~1864) 발생 안내<br></span><span><br></span><span></span></span><a href="https://blog.naver.com/govlrodtnr/222622910799" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://blog.naver.com/govlrodtnr/222622910799</span></a></span><a target="_self" class="link_more" style="display: block; padding-top: 0px;" href="/_SxkxoYxl/92359159">…더보기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✅ 코로나19 확진자 (용인-13294~13380, 용인외-1858~1862) 발생 안내https://blog.naver.com/govlrodtnr/222622539312…더보기]]></title>
         <id>https://pf.kakao.com/_SxkxoYxl/92347969</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_SxkxoYxl/92027994"/>
         <updated>2022-01-12T19:30:49.901Z</updated>
         <content type="html"><![CDATA[<span style="height: 44px; display: inline-block; overflow: hidden;"><span><span>✅ 코로나19 확진자 (용인-12812~12862, 용인외-1790~1791) 발생 안내<br></span><span><br></span><span></span></span><a href="https://blog.naver.com/govlrodtnr/222617124447" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://blog.naver.com/govlrodtnr/222617124447</span></a></span><a target="_self" class="link_more" style="display: block; padding-top: 0px;" href="/_SxkxoYxl/92027994">…더보기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✅ 코로나19 확진자 (용인-12750~12811, 용인외-1766~1789) 발생 안내https://blog.naver.com/govlrodtnr/222616763640…더보기]]></title>
-        <id>https://pf.kakao.com/_SxkxoYxl/92022980</id>
-        <link href="https://pf.kakao.com/_SxkxoYxl/92022980"/>
-        <updated>2022-01-12T19:30:49.901Z</updated>
-        <content type="html"><![CDATA[<span style="height: 44px; display: inline-block; overflow: hidden;"><span><span>✅ 코로나19 확진자 (용인-12750~12811, 용인외-1766~1789) 발생 안내<br></span><span><br></span><span></span></span><a href="https://blog.naver.com/govlrodtnr/222616763640" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://blog.naver.com/govlrodtnr/222616763640</span></a></span><a target="_self" class="link_more" style="display: block; padding-top: 0px;" href="/_SxkxoYxl/92022980">…더보기</a>]]></content>
     </entry>
 </feed>
