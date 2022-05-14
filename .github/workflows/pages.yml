@@ -24,7 +24,6 @@ jobs:
     - run: npx feed-me-up-scotty || npx feed-me-up-scotty || npx feed-me-up-scotty
     - name: Deploy to GitHub Pages
       run: |
-        git remote set-url $GITHUB_ACTOR
         git remote set-url https://github.com/$GITHUB_ACTOR/$GITHUB_REPOSITORY
         git config user.name $GITHUB_ACTOR
         git config user.email $GITHUB_ACTOR@users.noreply.github.com
