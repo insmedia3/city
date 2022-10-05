@@ -6,11 +6,6 @@ title = "성남시지역사회보장협의체 ─ 카카오톡 채널"
 url = "https://pf.kakao.com/_kCBqxl"
 entrySelector = "div.wrap_post"
 titleSelector = "strong.tit_post"
-linkSelector = "span.txt_time a"
-contentSelector = "p.desc_post"
-DateSelector = "span.txt_time a"
-DateFormat = "MM월 dd일 a hh:mm"
-imageSelector = "a.link_thumb div.wrap_thumb, div.post_card div.wrap_thumb img.img_thumb"
 waitUntil = "networkidle"
 
 #[yongin_linktree]
